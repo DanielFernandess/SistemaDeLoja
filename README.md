@@ -1,4 +1,4 @@
-# Sistema para loja feito em linguagem C
+# Sistema de loja feito em linguagem C
 
 Código desenvolvido na disciplina de Estrutura de Dados I do curso Bacharelado em Tecnologia da Informação - UFERSA.
  
